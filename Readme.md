@@ -97,6 +97,3 @@ Ingrese la cantidad en United States Dollar: 2
 - Asegúrate de que el archivo `.env` esté correctamente configurado antes de ejecutar la aplicación.
 - Las tasas de cambio se obtienen de la API de [ExchangeRate-API](https://www.exchangerate-api.com).
 
-## Contacto
-
-Para cualquier duda o problema, puedes contactar al autor del proyecto en [tu_email@example.com](mailto:tu_email@example.com).
